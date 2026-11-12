@@ -1,17 +1,33 @@
-# flutter_application_1
+# Flutter Profile App
 
-A new Flutter project.
+Aplikasi profil pribadi sederhana berbasis Flutter yang dibuat untuk memenuhi tugas mata kuliah Pemrograman Mobile.
 
-## Getting Started
+## Fitur Aplikasi
+- **My Profile** – Menampilkan foto dan nama.
+- **About Me** – Menampilkan informasi pendidikan.
+- **My Skills** – Menampilkan daftar keterampilan.
 
-This project is a starting point for a Flutter application.
+## Teknologi
+- Flutter
+- Dart
+- Visual Studio Code
+- Google Fonts (Poppins)
 
-A few resources to get you started if this is your first Flutter project:
+## Tampilan Aplikasi
+Menggunakan desain minimalis dengan kombinasi warna pink dan putih serta font Poppins.
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+## Struktur Project
+```text
+flutter_application_1/
+├── assets/
+│   ├── fonts/
+│   └── images/
+├── lib/
+│   └── main.dart
+├── pubspec.yaml
+└── README.md
+```
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Developer
+**Alinda Aulia**  
+Teknik Informatika – Universitas Teknologi Bandung
